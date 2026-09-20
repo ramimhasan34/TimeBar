@@ -22,7 +22,7 @@ A lightweight menu bar world clock for macOS.
 
 ## Credits
 
-Original app by: @satsdisco
+Original app by: @[satsdisco](https://github.com/satsdisco)
 
 
 ## Acknowledgments
