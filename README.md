@@ -28,7 +28,6 @@ Original app by: @[satsdisco](https://github.com/satsdisco)
 ## Acknowledgments
 
 - **City data** — [GeoNames](https://www.geonames.org) cities5000 dataset, CC BY 4.0
-- **Weather data** — [Open-Meteo](https://open-meteo.com), CC BY 4.0
 - **Icons** — SF Symbols by Apple
 
 ****
