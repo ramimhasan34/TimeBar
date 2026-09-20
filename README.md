@@ -17,7 +17,6 @@ A lightweight menu bar world clock for macOS.
 
 1. **[Download the latest release](https://github.com/ramimhasan34/TimeBar/releases/tag/v2.0)** 
 2. Unzip and drag `TimeBar.app` to `/Applications`
-3. Double-click to launch — it's signed and notarized by Apple, so no Gatekeeper warnings
 
 > TimeBar lives in your menu bar. There's no Dock icon — that's intentional. Look for the clock in the top-right of your screen.
 
