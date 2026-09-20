@@ -1,5 +1,4 @@
 # TimeBar
-
 A lightweight menu bar world clock for macOS.
 
 
@@ -23,7 +22,7 @@ A lightweight menu bar world clock for macOS.
 
 ## Credits
 
-Forked from https://github.com/satsdisco/MenuClock
+Original app by: @satsdisco
 
 
 ## Acknowledgments
